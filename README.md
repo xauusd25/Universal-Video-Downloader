@@ -15,7 +15,7 @@ Universal Video &amp; Music Downloader - Fast, and cross-platform tool for Andro
 ```bash
 pkg update
 pkg install python
-git clone https://github.com/Koustubh12345/Universal-Video-Downloader.git
+git clone https://github.com/xauusd25/Universal-Video-Downloader.git
 cd Universal-Video-Downloader
 pip install -r requirements.txt
 ```
