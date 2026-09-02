@@ -1,4 +1,4 @@
-OUTPUT_DIR = "./UVD Downloads"
+OUTPUT_DIR = "/storage/emulated/0/Download/"
 COLORS = {
     'HEADER': '\033[95m',
     'OKBLUE': '\033[94m',
